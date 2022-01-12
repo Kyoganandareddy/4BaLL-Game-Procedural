@@ -23,7 +23,7 @@ public class TryProcessing extends PApplet {
         ellipse(x2,(2*HEIGHT)/5,DAIMETER,DAIMETER);
         ellipse(x3,(3*HEIGHT)/5,DAIMETER,DAIMETER);
         ellipse(x4,(4*HEIGHT)/5,DAIMETER,DAIMETER);
-        x1++;
+        x1+=1;
         x2+=2;
         x3+=3;
         x4+=4;
